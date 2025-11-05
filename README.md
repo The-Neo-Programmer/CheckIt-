@@ -124,7 +124,7 @@ CheckIt isn't just another fact-checking tool—it's a movement toward digital l
 
 ---
 
-## 👨‍💻 **About Team Code Catalyst**
+## 👨‍💻 **About the developer**
 
 CheckIt is created by **Anurag Mukherjee**, a 15-year-old programmer based in Bangalore, Karnataka, India.
 
