@@ -2,7 +2,6 @@
 
 ![CheckIt Logo](favicon.png)
 
-# **CHECKIT!**
 ### _Where Truth Meets Technology_
 
 > **Instant URL verification for the truth-conscious web surfer**
