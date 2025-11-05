@@ -145,7 +145,7 @@ CheckIt is created by **Anurag Mukherjee**, a 15-year-old programmer based in Ba
 
 ---
 
-*Note: The CheckIt GitHub repository is currently private and will be made public soon.*
+*Note: The actual CheckIt GitHub repository hosting code is private.*
 
 ---
 
