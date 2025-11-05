@@ -1,6 +1,6 @@
 <div align="center">
 
-![CheckIt Logo](favicon.jpeg)
+![CheckIt Logo](favicon.png)
 
 # **CHECKIT!**
 ### _Where Truth Meets Technology_
